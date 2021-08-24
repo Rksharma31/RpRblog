@@ -1,0 +1,18 @@
+#owner {
+    font-family: 'Courier New', Courier;
+}
+#tmove{
+    color: white;
+    text-decoration-color:rgb(239, 239, 241);
+    background-color: black;
+}
+#welt{
+    font-family:Lucida Handwriting;
+}
+#cs50t{
+    font-weight: bold;
+    font-family: sans-serif;
+}
+#pyt{
+    font-family:cursive;
+}
